@@ -1,21 +1,17 @@
 
 # hi, my name is Bryan. 👋🏼
 
-__Current Location__: Chicago, IL | __Job Tite__: UI Developer | __Years of experience__:  11
+> I’m an experienced front-end-focused full stack developer with a passion for building Good Experiences. I’m driven by an insatiable thirst for knowledge, a deep love of problem solving, and a desire to turn out quality work. I m a careful planner who values working smart over working hard and has an unending love for Open Source. 
 
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 
 ### I am a:
-```
 👨🏼‍💻 Software Engineer. 
 🤓 Linux Nerd. 
 👨🏼‍🍳 Cook. 
 🧑🏼‍🚀 Sky-watcher. 
 🎙 Musician. 
 🪴 Terrible Houseplant Parent
-```
-
-
 
 <!--
 Here are some ideas to get you started:
