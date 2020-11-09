@@ -2,9 +2,10 @@
 <h1 align='center'> hi, my name is Bryan. 👋🏼 </h1>
 <h4 align='center'>let's write some code!</h4>
  
-<div align='center'>
-★ __UI Developer__ ★ __Karaoke King__ ★ __he/him__ ★ 
-</div>
+
+<strong align='center'>
+★ UI Developer ★ Karaoke King ★ he/him ★ 
+</strong>
 
 ### I am a:
 👨🏼‍💻 Software Engineer. 
