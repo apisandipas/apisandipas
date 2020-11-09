@@ -1,10 +1,6 @@
 
 # hi, my name is Bryan. 👋🏼
 
-> I’m an experienced front-end-focused full stack developer with a passion for building Good Experiences. I’m driven by an insatiable thirst for knowledge, a deep love of problem solving, and a desire to turn out quality work. I m a careful planner who values working smart over working hard and has an unending love for Open Source. 
-
-<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-
 ### I am a:
 👨🏼‍💻 Software Engineer. 
 🤓 Linux Nerd. 
@@ -12,6 +8,15 @@
 🧑🏼‍🚀 Sky-watcher. 
 🎙 Musician. 
 🪴 Terrible Houseplant Parent
+
+> I’m an experienced front-end-focused full stack developer with a passion for building Good Experiences. I’m driven by an insatiable thirst for knowledge, a deep love of problem solving, and a desire to turn out quality work. I m a careful planner who values working smart over working hard and has an unending love for Open Source. 
+
+### Tools I 💗
+
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/vim%20-%2343853D.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
+
+
 
 <!--
 Here are some ideas to get you started:
