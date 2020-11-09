@@ -1,7 +1,15 @@
+
+# hi, my name is Bryan. 👋🏼
+
+__Current Location__: Chicago, IL    
+__Job Tite__: UI Developer    
+__Years of experience__:  11     
+
+
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 
-```
 ### I am a:
+```
 👨🏼‍💻 Software Engineer. 
 🤓 Linux Nerd. 
 👨🏼‍🍳 Cook. 
@@ -10,9 +18,9 @@
 🪴 Terrible Houseplant Parent
 ```
 
-<!--
-**apisandipas/apisandipas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
