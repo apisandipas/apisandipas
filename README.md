@@ -3,9 +3,9 @@
 <h4 align='center'>let's write some code!</h4>
  
 
-<strong align='center'>
+<div align='center'>
 ★ UI Developer ★ Karaoke King ★ he/him ★ 
-</strong>
+</div>
 
 ### I am a:
 👨🏼‍💻 Software Engineer. 
