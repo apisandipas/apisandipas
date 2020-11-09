@@ -1,5 +1,6 @@
-<h1 style='text-align: center; color: cornflowerblue;'> hi, my name is Bryan. 👋🏼 </h1>
-<h4 align='center'></h4>
+<code>
+<h1 align='center'> hi, my name is Bryan. 👋🏼 </h1>
+<h4 align='center'>let's write some code</h4>
 
 ### I am a:
 👨🏼‍💻 Software Engineer. 
@@ -17,7 +18,7 @@
 <img src="https://img.shields.io/badge/vim%20-%2343853D.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
 
 
-
+</code>
 <!--
 Here are some ideas to get you started:
 
