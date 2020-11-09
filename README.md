@@ -2,7 +2,7 @@
 <h1 align='center'> hi, my name is Bryan. 👋🏼 </h1>
 <h4 align='center'>let's write some code!</h4>
   
-★ UI Developer ★ Karaoke King ★ __he/him__ ★ 
+★ __UI Developer__ ★ __Karaoke King__ ★ __he/him__ ★ 
 
 ### I am a:
 👨🏼‍💻 Software Engineer. 
@@ -14,14 +14,11 @@
 
 ... and an experienced front-end-focused full stack developer with a passion for building Good Experiences. I’m driven by an insatiable thirst for knowledge, a deep love of problem solving, and a desire to turn out quality work. I'm a careful planner who values working smart over working hard and has an unending love for Open Source. 
 
-
-##### more...
-
 - 🔭 I’m currently working for a large financial software company as a UI Developer
 - 🌱 I’m currently working on getting WCAG Certified.
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about my vim configs.
-- ⚡ Fun fact: I have a fantastsic falsetto.
+- 👯 I’m looking to collaborate on your small business solutions and growth needs.
+- 💬 Ask me about my .dotfiles
+- ‍ Fun fact: I have a fantastsic falsetto.
 
 ### Tools I 💗
 
