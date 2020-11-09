@@ -1,10 +1,7 @@
 
 # hi, my name is Bryan. 👋🏼
 
-__Current Location__: Chicago, IL    
-__Job Tite__: UI Developer    
-__Years of experience__:  11     
-
+__Current Location__: Chicago, IL | __Job Tite__: UI Developer | __Years of experience__:  11
 
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 
