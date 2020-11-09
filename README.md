@@ -1,5 +1,5 @@
-
-# hi, my name is Bryan. 👋🏼
+<h1 style='text-align: center; color: cornflowerblue;'> hi, my name is Bryan. 👋🏼 </h1>
+<h4 align='center'></h4>
 
 ### I am a:
 👨🏼‍💻 Software Engineer. 
