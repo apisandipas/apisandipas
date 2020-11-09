@@ -1,6 +1,6 @@
 <code>
 <h1 align='center'> hi, my name is Bryan. 👋🏼 </h1>
-<h4 align='center'>let's write some code</h4>
+<h4 align='center'>let's write some code!</h4>
 
 ### I am a:
 👨🏼‍💻 Software Engineer. 
@@ -9,8 +9,9 @@
 🧑🏼‍🚀 Sky-watcher. 
 🎙 Musician. 
 🪴 Terrible Houseplant Parent
+and...
 
-> I’m an experienced front-end-focused full stack developer with a passion for building Good Experiences. I’m driven by an insatiable thirst for knowledge, a deep love of problem solving, and a desire to turn out quality work. I m a careful planner who values working smart over working hard and has an unending love for Open Source. 
+> ... an experienced front-end-focused full stack developer with a passion for building Good Experiences. I’m driven by an insatiable thirst for knowledge, a deep love of problem solving, and a desire to turn out quality work. I m a careful planner who values working smart over working hard and has an unending love for Open Source. 
 
 ### Tools I 💗
 
