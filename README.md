@@ -1,8 +1,10 @@
 <code>
 <h1 align='center'> hi, my name is Bryan. 👋🏼 </h1>
 <h4 align='center'>let's write some code!</h4>
-  
+ 
+<div align='center'>
 ★ __UI Developer__ ★ __Karaoke King__ ★ __he/him__ ★ 
+</div>
 
 ### I am a:
 👨🏼‍💻 Software Engineer. 
@@ -15,10 +17,10 @@
 ... and an experienced front-end-focused full stack developer with a passion for building Good Experiences. I’m driven by an insatiable thirst for knowledge, a deep love of problem solving, and a desire to turn out quality work. I'm a careful planner who values working smart over working hard and has an unending love for Open Source. 
 
 - 🔭 I’m currently working for a large financial software company as a UI Developer
-- 🌱 I’m currently working on getting WCAG Certified.
+- 🌱 Current goals are to relaunch my coding blog, get WCAG and Node.JS Certifications
 - 👯 I’m looking to collaborate on your small business solutions and growth needs.
 - 💬 Ask me about my .dotfiles
-- ‍ Fun fact: I have a fantastsic falsetto.
+- 🎙 Fun fact: I have a fantastsic falsetto.
 
 ### Tools I 💗
 
@@ -43,17 +45,3 @@
 🖘 Using the info on the left. Talk soon! 
 
 </code>
-
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
--->
