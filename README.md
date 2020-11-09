@@ -21,7 +21,7 @@
 - 🌱 Current goals are to relaunch my coding blog, get WCAG and Node.JS Certifications
 - 👯 I’m looking to collaborate on your small business solutions and growth needs.
 - 💬 Ask me about my .dotfiles
-- 🎙 Fun fact: I have a fantastsic falsetto.
+- 🎙 Fun fact: I have a fantastic falsetto.
 
 ### Tools I 💗:
 
