@@ -23,7 +23,7 @@
 - 💬 Ask me about my .dotfiles
 - 🎙 Fun fact: I have a fantastsic falsetto.
 
-### Tools I 💗
+### Tools I 💗:
 
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
@@ -42,7 +42,7 @@
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-### Contact me
+### Contact Me:
 🖘 Using the info on the left. Talk soon! 
 
 </code>
