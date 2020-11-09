@@ -43,6 +43,6 @@
 <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 ### Contact Me:
-🖘 Using the info on the left. Talk soon! 
+👈 Using the info on the left. Talk soon! 
 
 </code>
