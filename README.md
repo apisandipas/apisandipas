@@ -8,17 +8,17 @@
 </div>
 
 ### I am a:
-👨🏼‍💻 Software Engineer. 
+👨🏼‍💻 Software Nerd.
 🤓 Linux Nerd. 
-👨🏼‍🍳 Cook. 
-🧑🏼‍🚀 Sky-watcher. 
-🎙 Musician. 
-🪴 Terrible Houseplant Parent...   
+👨🏼‍🍳 Food Nerd.
+🧑🏼‍🚀 Space Nerd.
+🎙 Music Nerd. 
+🪴 Terrible houseplant Owner...   
 
 ... and an experienced front-end-focused full stack developer with a passion for building Good Experiences. I’m driven by an insatiable thirst for knowledge, a deep love of problem solving, and a desire to turn out quality work. I'm a careful planner who values working smart over working hard and has an unending love for Open Source. 
 
-- 🔭 I’m currently working for a large financial software company as a UI Developer
-- 🌱 Current goals are to relaunch my coding blog, get WCAG and Node.JS Certifications
+- 🔭 I’m currently working fulltime as a UI Developer.
+- 🌱 Current goals are to relaunch my coding blog, and Node.JS Certifications
 - 👯 I’m looking to collaborate on your small business solutions and growth needs.
 - 💬 Ask me about my .dotfiles
 - 🎙 Fun fact: I have a fantastic falsetto.
