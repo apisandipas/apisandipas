@@ -13,14 +13,13 @@
 👨🏼‍🍳 Food Nerd.
 🧑🏼‍🚀 Space Nerd.
 🎙 Music Nerd. 
-🪴 Terrible houseplant Owner...   
+🪴 Terrible at houseplants.   
 
 ... and an experienced front-end-focused full stack developer with a passion for building Good Experiences. I’m driven by an insatiable thirst for knowledge, a deep love of problem solving, and a desire to turn out quality work. I'm a careful planner who values working smart over working hard and has an unending love for Open Source. 
 
-- 🔭 I’m currently working fulltime as a UI Developer.
-- 🌱 Current goals are to relaunch my coding blog, and Node.JS Certifications
-- 👯 I’m looking to collaborate on your small business solutions and growth needs.
-- 💬 Ask me about my .dotfiles
+- 🔭 I’m currently seeking new opportunities  where I can stretch my creative muscles.
+- 🌱 Current goals are to relaunch my coding blog, and get AWS and NodeJS Certifications
+- 👯 I’m looking to collaborate as well as share my knowledge. What could we achieve together?
 - 🎙 Fun fact: I have a fantastic falsetto.
 
 ### Tools I 💗:
