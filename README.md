@@ -1,4 +1,5 @@
 <code>
+ 
 <h1 align='center'> hi, my name is Bryan. 👋🏼 </h1>
 <h4 align='center'>let's write some code!</h4>
  
@@ -13,7 +14,7 @@
 👨🏼‍🍳 Food Nerd.
 🧑🏼‍🚀 Space Nerd.
 🎙 Music Nerd. 
-🪴 Terrible at houseplants.   o.
+🪴 Terrible at houseplants. 
 
 
 </code>
