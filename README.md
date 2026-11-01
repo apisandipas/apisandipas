@@ -1,11 +1,11 @@
 <code>
  
 <h1 align='center'> hi, my name is Bryan. 👋🏼 </h1>
-<h4 align='center'>let's write some code!</h4>
+<h4 align='center'>let's build!</h4>
  
 
 <div align='center'>
-★ UI Developer ★ Karaoke King ★ he/him ★ 
+★ Software Developer & Consultant ★ Karaoke King ★ he/him ★ 
 </div>
 
 ### I am a:
